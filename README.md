@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Skylyyun&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a> | 
-| ------------- |
+ <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Skylyyun&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a> 
+
 
 <!--
 **Skylyyun/Skylyyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
