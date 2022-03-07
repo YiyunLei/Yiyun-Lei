@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="http://www.xiong35.cn">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Skylyyun&count_private=true&show_icons=true&locale=cn&hide_border=true" />
-  </a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Skylyyun&count_private=true&show_icons=true&theme=shades-of-purple" />
 </p>
 
 <!--
