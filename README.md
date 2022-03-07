@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
   <a href="http://www.xiong35.cn">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Skylyyun&count_private=true&show_icons=true&locale=cn&hide_border=true" />
   </a>
