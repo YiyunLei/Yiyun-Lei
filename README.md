@@ -3,8 +3,6 @@
 
  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Skylyyun&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a> 
 
-<!--  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylyyun&layout=compact&count_private=true&theme=prussian&card_width=445&langs_count=6" /></a>  -->
-
 
 
 <!--
