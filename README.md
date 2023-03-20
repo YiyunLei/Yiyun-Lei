@@ -1,5 +1,5 @@
 ###  Hi there 👋
-✨ **Welcome to my blog:**  [Skylyyun's Blog](https://blog.leiyiyun.com)
+✨ **Welcome to my blog:**  [Yiyun Lei's Blog](https://blog.leiyiyun.com)
 
  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YiyunLei&show_icons=true&theme=default&count_private=true&hide_border=true" /></a> 
 
