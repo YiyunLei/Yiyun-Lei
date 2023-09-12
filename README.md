@@ -1,10 +1,5 @@
 <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YiyunLei&show_icons=true&theme=default&count_private=true&hide_border=true" /></a> 
 
-一个人活在今天，只要把今天的地扫干净、把今天的心扫干净就行了。
-
-因为明天有明天的心，和明天的落叶。
-
-—— _林清玄 《凡事不如看淡》_
 
 <!--
 **Skylyyun/Skylyyun** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
