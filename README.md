@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <a href="#">
         <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chloeleilyy&show_icons=true&theme=default&count_private=true&hide_border=true" style="margin-right: 10px;" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeleilyy&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeleilyy&show_icons=true&theme=default&hide_border=true&count_private=true" />
 </div>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=chloeleilyy&theme=default&count_private=true&hide_border=true"/>
