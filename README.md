@@ -15,43 +15,40 @@ Here are some ideas to get you started:
 
 
 
-<a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chloeleilyy&show_icons=true&theme=default&count_private=true&hide_border=true" /></a> 
+
 
 ### Hi there 👋<h2> I'm Chloe Lei</h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<h3> 💻 About Me </h3>
-
+<h3> About Me </h3>
 
 
-- 🤔 &nbsp; Exploring new technologies in data engineer and software engineer.
-
-- 🎓 &nbsp; Pursuing Master of Data Science from University of Maryland, College park.
-
-- ✍️ &nbsp; Talk to me about Tech, Indian mythology and Books.
+- 🎓 &nbsp; Pursuing Master of Data Science from University of Maryland
+  
+- 🤔 &nbsp; Exploring new technologies in data engineering and software engineering
   
 - 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
 
-- 🌱 &nbsp; Balancing between algorithms and elegant code. Let's connect for meaningful discussions on software development and beyond.
+- 💻 &nbsp; Learning by doing is my principle for mastering new technologies.
 
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | SQL | JavaScript
-
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Spring MVC | Springboot | Django
-
-- 🛢 &nbsp; MySQL | MongoDB | Hibernate
-  
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Microservices
+- 🔧 &nbsp; AWS SAA certification
+- ⛸️ &nbsp; Ice skating
+
+
+<hr>
+
+<div style="display: flex; align-items: flex-start;">
+    <a href="#">
+        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chloeleilyy&show_icons=true&theme=default&count_private=true&hide_border=true" style="margin-right: 10px;" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeleilyy&show_icons=true&theme=default&hide_border=true" />
+</div>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=chloeleilyy&theme=default&hide_border=true"/>
 
 <hr>
 
@@ -71,13 +68,3 @@ Here are some ideas to get you started:
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/chloeleilyy/count.svg" />
 </p>
-
-
-<hr>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeleilyy&show_icons=true&theme=gotham)
-
-<br>
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=rashi07dashore&theme=gotham"/></td></tr></table>
