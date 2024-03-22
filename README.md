@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋<h2> I'm Chloe Lei</h2>
 
 
-<h3> About Me </h3>
+<h3>💻 About Me </h3>
 
 
 - 🎓 &nbsp; Pursuing Master of Data Science from University of Maryland
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 - 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
 
-- 💻 &nbsp; Learning by doing is my principle for mastering new technologies.
+- 📚 &nbsp; Learning by doing is my principle for mastering new technologies.
 
 
 
