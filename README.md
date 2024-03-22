@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeleilyy&show_icons=true&theme=default&hide_border=true" />
 </div>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=chloeleilyy&theme=default&hide_border=true"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=chloeleilyy&theme=default&count_private=true&hide_border=true"/>
 
 <hr>
 
