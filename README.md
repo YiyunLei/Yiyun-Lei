@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS SAA certification
-- ⛸️ &nbsp; Ice skating
 
 
 <hr>
