@@ -59,9 +59,4 @@ Here are some ideas to get you started:
 
 <a href="mailto:yiyunlei.yl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yiyunlei.yl@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-</p>
 
-<p> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/yiyunlei/count.svg" />
-</p>
