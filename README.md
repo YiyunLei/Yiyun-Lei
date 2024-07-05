@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋<h2> I'm Chloe Lei</h2>
+### Hi there 👋<h2> I'm Yiyun Lei</h2>
 
 
 <h3>💻 About Me </h3>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyunlei&show_icons=true&theme=default&hide_border=true&count_private=true" />
 </div>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=chloeleilyy&theme=default&count_private=true&hide_border=true"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=yiyunlei&theme=default&count_private=true&hide_border=true"/>
 
 <hr>
 
@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/chloelyy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chloe%20Lei-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yiyunlei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yiyun%20Lei-blue?style=flat-square&logo=linkedin"></a>
 
 
-<a href="mailto:chloelei.lyy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chloelei.lyy@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:yiyunlei.yl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yiyunlei.yl@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
 <p> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/chloeleilyy/count.svg" />
+  <img src="https://profile-counter.glitch.me/yiyunlei/count.svg" />
 </p>
