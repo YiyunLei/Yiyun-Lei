@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Pursuing Master of Data Science from University of Maryland
   
-- 🤔 &nbsp; Exploring new technologies in software engineering (Web development)
+- 🤔 &nbsp; Exploring new technologies in software engineering ( Web development )
   
 - 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
 
