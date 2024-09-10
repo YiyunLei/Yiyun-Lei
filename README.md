@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3>💻 About Me </h3>
 
 
-- 🎓 &nbsp; Pursuing Master of Data Science from University of Maryland
+- 🎓 &nbsp; Pursuing M.S. in Data Science from University of Maryland
   
 - 🤔 &nbsp; Exploring new technologies in software engineering ( Web development )
   
