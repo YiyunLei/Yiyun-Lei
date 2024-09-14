@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Pursuing M.S. in Data Science from University of Maryland
   
-- 🤔 &nbsp; Exploring new technologies in software engineering ( Web development )
+- 🤔 &nbsp; Exploring new technologies in software engineering(Web development)
   
 - 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
 
-- 📚 &nbsp; Learning by doing is my principle for mastering new technologies.
+- 📚 &nbsp; Learning by building is my principle for mastering new technologies.
 
 
 
