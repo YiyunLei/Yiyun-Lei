@@ -57,6 +57,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/yiyunlei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yiyun%20Lei-blue?style=flat-square&logo=linkedin"></a>
 
 
-<a href="mailto:yiyunlei.yl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yiyunlei.yl@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-
