@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   
 - 🤔 &nbsp; Exploring new technologies in Data Science
   
-- 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
+- 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech
 
-- 📚 &nbsp; Learning by building is my principle for mastering new technologies.
+- 📚 &nbsp; Learning by building is my principle for mastering new technologies
 
 
 
