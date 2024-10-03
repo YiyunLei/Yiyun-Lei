@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Pursuing M.S. in Data Science from University of Maryland
   
-- 🤔 &nbsp; Exploring new technologies in data science
+- 🤔 &nbsp; Exploring new technologies in Data Science
   
 - 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
 
